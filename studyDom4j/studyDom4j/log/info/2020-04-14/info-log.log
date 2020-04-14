@@ -1,0 +1,16 @@
+2020-04-14 22:52:57.767 INFO  org.example.App - ----------- org.example.App.simulateIOC start
+2020-04-14 22:52:57.817 INFO  org.example.App - <?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean id="testBean" class="org.example.HelloWorld"/>
+</beans>
+2020-04-14 22:52:57.819 INFO  org.example.App - hello
+2020-04-14 22:52:57.819 INFO  org.example.App - ----------- org.example.App.simulateIOC end
+2020-04-14 22:55:43.869 INFO  org.example.App - ----------- org.example.App.simulateIOC start
+2020-04-14 22:55:43.919 INFO  org.example.App - <?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean id="testBean" class="org.example.HelloWorld"/>
+</beans>
+2020-04-14 22:55:43.921 INFO  org.example.App - hello
+2020-04-14 22:55:43.923 INFO  org.example.App - ----------- org.example.App.simulateIOC end
+2020-04-14 22:59:59.308 INFO  org.example.App - ----------- org.example.App.outPutDocumentXML start
+2020-04-14 22:59:59.350 INFO  org.example.App - ----------- org.example.App.outPutDocumentXML end

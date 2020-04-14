@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+  <book>
+    <title>AAA</title>
+    <author>aaa</author>
+  </book>
+  <book>
+    <title>BBB</title>
+    <author>bbb</author>
+  </book>
+  <book>
+    <title>CCC</title>
+    <author>ccc</author>
+  </book>
+</books>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <books id="book1" date="2020">
+        <author>腾讯</author>
+        <category>产品</category>
+    </books>
+    <books id="book1" date="2020">
+        <author>阿里</author>
+        <category>运营</category>
+    </books>
+    <books id="book1" date="2020">
+        <author>华为</author>
+        <category>技术</category>
+    </books>
+</books>
