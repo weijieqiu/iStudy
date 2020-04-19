@@ -1,0 +1,13 @@
+<student>
+  <cdata>&lt;![CDATA[]]&gt;</cdata>
+  <age>22</age>
+  <id>101</id>
+  <name>张三</name>
+  <item>1</item>
+  <item>2</item>
+  <classroom>
+    <grade>4</grade>
+    <id>1</id>
+    <name>软件工程</name>
+  </classroom>
+</student>

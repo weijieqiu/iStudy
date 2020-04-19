@@ -1,0 +1,12 @@
+<ObjectNode>
+  <cdata>中&lt;a>文</cdata>
+  <age>22</age>
+  <classroom>
+    <grade>4</grade>
+    <id>1</id>
+    <name>软件工程</name>
+  </classroom>
+  <id>101</id>
+  <name>张三</name>
+  <item>2</item>
+</ObjectNode>

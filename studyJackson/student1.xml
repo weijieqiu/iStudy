@@ -1,0 +1,8 @@
+<ObjectNode>
+  <name>Mahesh Kumar</name>
+  <age>21</age>
+  <verified>false</verified>
+  <root>100</root>
+  <root>90</root>
+  <root>85</root>
+</ObjectNode>
