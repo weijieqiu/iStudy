@@ -1,11 +1,21 @@
 # iStudy
 各种学习小案例
 
+## 2020-04-20
+
+- 玩玩 vue+mock.js 的使用
+
+  >【demo】: studyJackson
+  >
+  >【blog】 :studyVue\vuemock
+  >
+  >https://blog.csdn.net/growl_jie_/article/details/105647189
+
 ## 2020-04-19
 
 - 使用 Jackson 玩转 xml 的序列化和反序列化
 
-  > 【demo】: studyJack
+  > 【demo】: studyJackson
   >
   > 【blog】 :
   >
